@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>lemming_bash_l.bmp</Source>
+      <Name>lemming_bash_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_bash_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_bash_r.bmp</Source>
+      <Name>lemming_bash_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_bash_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_block_l.bmp</Source>
+      <Name>lemming_block_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_block_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_block_r.bmp</Source>
+      <Name>lemming_block_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_block_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_climb_l.bmp</Source>
+      <Name>lemming_climb_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_climb_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_climb_r.bmp</Source>
+      <Name>lemming_climb_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_climb_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_dig_l.bmp</Source>
+      <Name>lemming_dig_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_dig_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_dig_r.bmp</Source>
+      <Name>lemming_dig_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_dig_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_explode_s.bmp</Source>
+      <Name>lemming_explode_s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_explode_s.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_fall_l.bmp</Source>
+      <Name>lemming_fall_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_fall_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_fall_r.bmp</Source>
+      <Name>lemming_fall_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_fall_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_floatstart_l.bmp</Source>
+      <Name>lemming_floatstart_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_floatstart_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_floatstart_r.bmp</Source>
+      <Name>lemming_floatstart_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_floatstart_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.4668+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_float_l.bmp</Source>
+      <Name>lemming_float_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_float_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.498+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_float_r.bmp</Source>
+      <Name>lemming_float_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_float_r.xnb</Output>
+      <Time>2012-04-03T12:19:02.889+02:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_frie_s.bmp</Source>
+      <Name>lemming_frie_s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_frie_s.xnb</Output>
+      <Time>2012-03-14T16:37:32.4668+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_mine_l.bmp</Source>
+      <Name>lemming_mine_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_mine_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.4668+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_mine_r.bmp</Source>
+      <Name>lemming_mine_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_mine_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_splut_s.bmp</Source>
+      <Name>lemming_splut_s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_splut_s.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_walk_l.bmp</Source>
+      <Name>lemming_walk_l</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_walk_l.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lemming_walk_r.bmp</Source>
+      <Name>lemming_walk_r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\lemming_walk_r.xnb</Output>
+      <Time>2012-03-14T16:37:32.4824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Level1Bg.png</Source>
+      <Name>Level1Bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\Level1Bg.xnb</Output>
+      <Time>2012-03-20T08:45:28.017+01:00</Time>
+    </Item>
+    <Item>
+      <Source>finish.bmp</Source>
+      <Name>finish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\finish.xnb</Output>
+      <Time>2012-04-02T16:26:55.421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PuppetFont.spritefont</Source>
+      <Name>PuppetFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\PuppetFont.xnb</Output>
+      <Time>2012-04-02T16:45:43.291+02:00</Time>
+    </Item>
+    <Item>
+      <Source>theTile.png</Source>
+      <Name>theTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\theTile.xnb</Output>
+      <Time>2012-03-28T14:35:10.341+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BtnDig.bmp</Source>
+      <Name>BtnDig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\BtnDig.xnb</Output>
+      <Time>2012-04-04T09:06:13.2472+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spawn.wav</Source>
+      <Name>spawn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\spawn.xnb</Output>
+      <Time>2012-04-04T17:43:25.508+02:00</Time>
+    </Item>
+    <Item>
+      <Source>spawn-echo.mp3</Source>
+      <Name>spawn-echo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\spawn-echo.xnb</Output>
+      <Extra>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\spawn-echo.wma</Extra>
+      <Time>2012-04-04T18:06:11.74+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BtnUmbrella.bmp</Source>
+      <Name>BtnUmbrella</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\BtnUmbrella.xnb</Output>
+      <Time>2012-04-05T16:00:48.6352+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppetsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppetsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\David\Documents\Visual Studio 2010\Projects\DesignPuppets\DesignPuppets\DesignPuppets\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-06T10:51:18.8380002+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

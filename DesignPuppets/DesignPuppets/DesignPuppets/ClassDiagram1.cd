@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DesignPuppets.Level">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQEAAAEgQEAIwAIAEACIEDACAAgBgAAIAEAIAAAgAQ=</HashCode>
+      <FileName>Classes\Level.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_finish" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listOfPuppets" />
+      <Field Name="_listOfButtons" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DesignPuppets.Game1">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAGEAAAEAAAwEAAAAAAAAAAAEAAAgBAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="player" />
+      <Field Name="level" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DesignPuppets.Player">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPuppets.Puppet">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="DesignPuppets.Puppet.PuppetState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\Puppet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\Puppet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPuppets.GameObject">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAACxQAAAAAAAAUAAAAAAAAAAJggQAGAAA=</HashCode>
+      <FileName>Classes\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPuppets.WalkBehaviour">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\WalkBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.UseUmbrellaBehaviour">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\UseUmbrellaBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.FallBehaviour">
+    <Position X="5.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\FallBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.DigBehaviour">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\DigBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.TextureLoader">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Classes\TextureLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPuppets.Behaviours.ClimbBehaviour">
+    <Position X="7" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\ClimbBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.Behaviours.SuicideBehaviour">
+    <Position X="8.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\SuicideBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.Behaviours.BlockBehaviour">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Behaviours\BlockBehaviour.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPuppets.Finish">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Finish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPuppets.ButtonBehaviour">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="DesignPuppets.ButtonBehaviour.BehaviourType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Buttons\ButtonBehaviour.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Buttons\ButtonBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DesignPuppets.IPuppetBehaviour">
+    <Position X="8.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Interfaces\IPuppetBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

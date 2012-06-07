@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPuppets", "DesignPuppets\DesignPuppets\DesignPuppets.csproj", "{A58757E5-F3E1-4692-A635-809298884301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPuppetsContent", "DesignPuppets\DesignPuppetsContent\DesignPuppetsContent.contentproj", "{057110E6-394D-4868-8B3E-EB077BDC5EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58757E5-F3E1-4692-A635-809298884301}.Debug|x86.ActiveCfg = Debug|x86
+		{A58757E5-F3E1-4692-A635-809298884301}.Debug|x86.Build.0 = Debug|x86
+		{A58757E5-F3E1-4692-A635-809298884301}.Release|x86.ActiveCfg = Release|x86
+		{A58757E5-F3E1-4692-A635-809298884301}.Release|x86.Build.0 = Release|x86
+		{057110E6-394D-4868-8B3E-EB077BDC5EC0}.Debug|x86.ActiveCfg = Debug|x86
+		{057110E6-394D-4868-8B3E-EB077BDC5EC0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
